@@ -1,5 +1,5 @@
 # UserManagement
-
+This is a project for user management with angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
 
 ## Development server
