@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+html,
+body,
+book-root {
+  margin: 2rem;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 100%;
+  letter-spacing: .3px;
+  line-height: 1.875;
+  height: 100%;
+  padding: 1rem;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+
+  .font-medium {
+    font-size: 18px;
+  }
+
+  .font-large {
+    font-size: 26px;
+  }
+}
